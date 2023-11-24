@@ -1,6 +1,6 @@
 # **Limit**
-## Time : 2 sec
-## Memory : 64 MB
+## *Time : 2 sec*
+## *Memory : 128 MB*
 
 Tahsin loves graph theory very much. He is especially fond of trees. For his upcoming birthday his friends decided to gift him a tree, lets call it birthday tree. Birthday tree consists of *n* node numbered *1* to *n*, having a light in every node. Initially some of the light is turned on and some are turned off. 
 

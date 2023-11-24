@@ -1,6 +1,6 @@
 {
     "TimeLimit": 2000,
-    "MemoryLimit": 65536,
+    "MemoryLimit": 131072,
     "ValidatorType": 1,
     "TestCases": [
         {
