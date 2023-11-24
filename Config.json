@@ -1,0 +1,57 @@
+{
+    "TimeLimit": 2000,
+    "MemoryLimit": 65536,
+    "ValidatorType": 1,
+    "TestCases": [
+        {
+            "Input": "input1.txt",
+            "Output": "output1.txt",
+            "Score": 10
+        },
+        {
+            "Input": "input2.txt",
+            "Output": "output2.txt",
+            "Score": 10
+        },
+        {
+            "Input": "input3.txt",
+            "Output": "output3.txt",
+            "Score": 10
+        },
+        {
+            "Input": "input4.txt",
+            "Output": "output4.txt",
+            "Score": 10
+        },
+        {
+            "Input": "input5.txt",
+            "Output": "output5.txt",
+            "Score": 10
+        },
+        {
+            "Input": "input6.txt",
+            "Output": "output6.txt",
+            "Score": 10
+        },
+        {
+            "Input": "input7.txt",
+            "Output": "output7.txt",
+            "Score": 10
+        },
+        {
+            "Input": "input8.txt",
+            "Output": "output8.txt",
+            "Score": 10
+        },
+        {
+            "Input": "input9.txt",
+            "Output": "output9.txt",
+            "Score": 10
+        },
+        {
+            "Input": "input10.txt",
+            "Output": "output10.txt",
+            "Score": 10
+        }
+    ]
+}

@@ -52,9 +52,17 @@ bool _union( int u, int v ) {
 }
 
 
-int main()
+int main(int argc, char* argv[])
 {
-    freopen( "input10.txt", "w+", stdout );
+    if (argc != 2)
+    {
+        printf("Usage: %s <file to write input to>\n", argv[0]);
+        return 1;
+    }
+    // freopen( "input01.txt", "w+", stdout );
+    argv++;
+    freopen( argv[0], "w+", stdout );
+    // freopen( "input10.txt", "w+", stdout );
     set<pair<int, int>> container;
     set<pair<int, int>>::iterator it;
 
